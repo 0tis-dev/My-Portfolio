@@ -12,8 +12,9 @@ runBtn.addEventListener('click', function () {
 
   // ── Your code starts here ──────────────────────────
 function setup() {
-  createCanvas(400, 400);
-}
+let canvas = createCanvas(500, 500);
+   canvas.parent('sketch-container');
+  }
 
 //HOUSE LIGHTS
 let hlChoice = Math.floor(Math.random()*3)+1;
