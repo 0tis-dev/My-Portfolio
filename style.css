@@ -1,9 +1,9 @@
 /* ── Tokens ─────────────────────────────────────────── */
 :root {
-  --bg:        #0f0f0f;
-  --surface:   #1a1a1a;
+  --bg:        #42c8f5;
+  --surface:   #ffffff;
   --border:    #2e2e2e;
-  --accent:    #c8f04a;
+  --accent:    #ec49f5;
   --text:      #f0ede6;
   --muted:     #7a7770;
   --font-head: 'DM Serif Display', Georgia, serif;
